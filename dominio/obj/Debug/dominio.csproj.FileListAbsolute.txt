@@ -22,3 +22,9 @@ C:\Users\usuario\Desktop\Juan\Materias\Programacion III\PROYECTO WINFORM\tp-winf
 C:\Users\usuario\Desktop\Juan\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Desktop\Juan\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\dominio\obj\Debug\dominio.dll
 C:\Users\usuario\Desktop\Juan\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\dominio\obj\Debug\dominio.pdb
+C:\Users\Marina_Chavez\Desktop\TPWeb_equipo-20B\TPWeb_equipo-20B\dominio\bin\Debug\dominio.dll
+C:\Users\Marina_Chavez\Desktop\TPWeb_equipo-20B\TPWeb_equipo-20B\dominio\bin\Debug\dominio.pdb
+C:\Users\Marina_Chavez\Desktop\TPWeb_equipo-20B\TPWeb_equipo-20B\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Marina_Chavez\Desktop\TPWeb_equipo-20B\TPWeb_equipo-20B\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Marina_Chavez\Desktop\TPWeb_equipo-20B\TPWeb_equipo-20B\dominio\obj\Debug\dominio.dll
+C:\Users\Marina_Chavez\Desktop\TPWeb_equipo-20B\TPWeb_equipo-20B\dominio\obj\Debug\dominio.pdb
