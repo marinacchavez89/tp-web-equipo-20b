@@ -28,3 +28,9 @@ C:\Users\Marina_Chavez\Desktop\TPWeb_equipo-20B\TPWeb_equipo-20B\dominio\obj\Deb
 C:\Users\Marina_Chavez\Desktop\TPWeb_equipo-20B\TPWeb_equipo-20B\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 C:\Users\Marina_Chavez\Desktop\TPWeb_equipo-20B\TPWeb_equipo-20B\dominio\obj\Debug\dominio.dll
 C:\Users\Marina_Chavez\Desktop\TPWeb_equipo-20B\TPWeb_equipo-20B\dominio\obj\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WEB\tp-web-equipo-20b\dominio\bin\Debug\dominio.dll
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WEB\tp-web-equipo-20b\dominio\bin\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WEB\tp-web-equipo-20b\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WEB\tp-web-equipo-20b\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WEB\tp-web-equipo-20b\dominio\obj\Debug\dominio.dll
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WEB\tp-web-equipo-20b\dominio\obj\Debug\dominio.pdb
