@@ -1,0 +1,54 @@
+C:\Users\Marina_Chavez\Desktop\TPWinForm_equipo-20B\TPWinForm_equipo-20B\negocio\bin\Debug\negocio.dll
+C:\Users\Marina_Chavez\Desktop\TPWinForm_equipo-20B\TPWinForm_equipo-20B\negocio\bin\Debug\negocio.pdb
+C:\Users\Marina_Chavez\Desktop\TPWinForm_equipo-20B\TPWinForm_equipo-20B\negocio\bin\Debug\dominio.dll
+C:\Users\Marina_Chavez\Desktop\TPWinForm_equipo-20B\TPWinForm_equipo-20B\negocio\bin\Debug\dominio.pdb
+C:\Users\Marina_Chavez\Desktop\TPWinForm_equipo-20B\TPWinForm_equipo-20B\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Marina_Chavez\Desktop\TPWinForm_equipo-20B\TPWinForm_equipo-20B\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Marina_Chavez\Desktop\TPWinForm_equipo-20B\TPWinForm_equipo-20B\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\Marina_Chavez\Desktop\TPWinForm_equipo-20B\TPWinForm_equipo-20B\negocio\obj\Debug\negocio.dll
+C:\Users\Marina_Chavez\Desktop\TPWinForm_equipo-20B\TPWinForm_equipo-20B\negocio\obj\Debug\negocio.pdb
+C:\Users\Usuario\Desktop\MARTIN\tp-winform-equipo-20B\negocio\bin\Debug\negocio.dll
+C:\Users\Usuario\Desktop\MARTIN\tp-winform-equipo-20B\negocio\bin\Debug\negocio.pdb
+C:\Users\Usuario\Desktop\MARTIN\tp-winform-equipo-20B\negocio\bin\Debug\dominio.dll
+C:\Users\Usuario\Desktop\MARTIN\tp-winform-equipo-20B\negocio\bin\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\MARTIN\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\MARTIN\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MARTIN\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\Usuario\Desktop\MARTIN\tp-winform-equipo-20B\negocio\obj\Debug\negocio.dll
+C:\Users\Usuario\Desktop\MARTIN\tp-winform-equipo-20B\negocio\obj\Debug\negocio.pdb
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\bin\Debug\negocio.dll
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\bin\Debug\negocio.pdb
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\bin\Debug\dominio.dll
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\bin\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\obj\Debug\negocio.dll
+C:\Users\Usuario\Desktop\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\obj\Debug\negocio.pdb
+C:\Users\Lazaro\Desktop\tpProgra3\tp-winform-equipo-20B\negocio\bin\Debug\negocio.dll
+C:\Users\Lazaro\Desktop\tpProgra3\tp-winform-equipo-20B\negocio\bin\Debug\negocio.pdb
+C:\Users\Lazaro\Desktop\tpProgra3\tp-winform-equipo-20B\negocio\bin\Debug\dominio.dll
+C:\Users\Lazaro\Desktop\tpProgra3\tp-winform-equipo-20B\negocio\bin\Debug\dominio.pdb
+C:\Users\Lazaro\Desktop\tpProgra3\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Lazaro\Desktop\tpProgra3\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Lazaro\Desktop\tpProgra3\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Lazaro\Desktop\tpProgra3\tp-winform-equipo-20B\negocio\obj\Debug\negocio.dll
+C:\Users\Lazaro\Desktop\tpProgra3\tp-winform-equipo-20B\negocio\obj\Debug\negocio.pdb
+C:\Users\juanc\OneDrive\Escritorio\Materias\Programacion III\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\juanc\OneDrive\Escritorio\Materias\Programacion III\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\juanc\OneDrive\Escritorio\Materias\Programacion III\tp-winform-equipo-20B\negocio\obj\Debug\negocio.dll
+C:\Users\juanc\OneDrive\Escritorio\Materias\Programacion III\tp-winform-equipo-20B\negocio\obj\Debug\negocio.pdb
+C:\Users\juanc\OneDrive\Escritorio\Materias\Programacion III\tp-winform-equipo-20B\negocio\bin\Debug\negocio.dll
+C:\Users\juanc\OneDrive\Escritorio\Materias\Programacion III\tp-winform-equipo-20B\negocio\bin\Debug\negocio.pdb
+C:\Users\juanc\OneDrive\Escritorio\Materias\Programacion III\tp-winform-equipo-20B\negocio\bin\Debug\dominio.dll
+C:\Users\juanc\OneDrive\Escritorio\Materias\Programacion III\tp-winform-equipo-20B\negocio\bin\Debug\dominio.pdb
+C:\Users\juanc\OneDrive\Escritorio\Materias\Programacion III\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\usuario\Desktop\Juan\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\bin\Debug\negocio.dll
+C:\Users\usuario\Desktop\Juan\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\bin\Debug\negocio.pdb
+C:\Users\usuario\Desktop\Juan\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\bin\Debug\dominio.dll
+C:\Users\usuario\Desktop\Juan\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\bin\Debug\dominio.pdb
+C:\Users\usuario\Desktop\Juan\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Juan\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Juan\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\obj\Debug\negocio.dll
+C:\Users\usuario\Desktop\Juan\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\obj\Debug\negocio.pdb
+C:\Users\usuario\Desktop\Juan\Materias\Programacion III\PROYECTO WINFORM\tp-winform-equipo-20B\negocio\obj\Debug\negocio.csproj.Up2Date
