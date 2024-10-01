@@ -7,16 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace TPWeb_equipo_20B
 {
-    public partial class Default : System.Web.UI.Page
+    public partial class ArticulosPromo : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
 
-        }
-
-        protected void btnSiguiente_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("ArticulosPromo.aspx", false);
         }
     }
 }
