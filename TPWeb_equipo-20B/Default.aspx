@@ -7,10 +7,9 @@
     <p>Te encuentras en la web para canjear tu voucher</p>
 
     <div class="mb-3">
-        <label for="exampleInputCodigo" class="form-label">Ingresa el código de tu voucher</label>
-        <input class="form-control" id="exampleInputCodigo" aria-describedby="codigoHelp">
-        <div id="codigoHelp" class="form-text">No compartas el código de tu voucher con nadie.</div>
-    </div>
-    <%--<button type="submit" class="btn btn-primary">Siguiente</button>--%>
+        <label for="txtCodigoVoucher" class="form-label">Ingresa el código de tu voucher</label>
+        <asp:TextBox cssclass="form-control" id="txtCodigoVoucher" aria-describedby="codigoHelp" runat="server" />
+        <asp:RequiredFieldValidator ID="rfvCodigoVoucher" runat="server" ControlToValidate="txtCodigoVoucher" ErrorMessage="El código del voucher es obligatorio." CssClass="text-danger" Display="Dynamic" ForeColor="Red" />
+    </div> 
     <asp:Button ID="btnSiguiente" Text="Siguiente" cssclass="btn btn-primary" OnClick="btnSiguiente_Click" runat="server" />
 </asp:Content>
