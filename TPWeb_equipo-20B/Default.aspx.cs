@@ -19,23 +19,32 @@ namespace TPWeb_equipo_20B
 
         protected void btnSiguiente_Click(object sender, EventArgs e)
         {
+            lblErrorVoucher.Visible = false;
+
+            if (string.IsNullOrWhiteSpace(txtCodigoVoucher.Text))
+            {
+                lblErrorVoucher.Text = "El código del voucher no puede estar vacío.";
+                lblErrorVoucher.Visible = true;
+                return;
+            }
+
             Voucher voucher = new Voucher();
             voucher.CodigoVoucher = txtCodigoVoucher.Text;
 
             VoucherNegocio voucherNegocio = new VoucherNegocio();
 
-            bool resultado = voucherNegocio.validarVoucher(voucher);
+            bool resultado = voucherNegocio.validarVoucher(voucher);            
 
-            if (resultado) 
+            if (resultado)
             {
-                string script = "alert('El código del voucher ya ha sido canjeado o no existe.');";
-                ClientScript.RegisterStartupScript(this.GetType(), "alert", script, true);
+                lblErrorVoucher.Text = "El código del voucher ya ha sido canjeado o no existe.";
+                lblErrorVoucher.Visible = true;
             }
             else
             {
+                lblErrorVoucher.Visible = false;
                 Response.Redirect("ArticulosPromo.aspx", false);
             }
-
 
         }
     }

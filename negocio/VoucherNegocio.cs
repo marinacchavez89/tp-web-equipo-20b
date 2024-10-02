@@ -22,24 +22,12 @@ namespace negocio
 
                 if (cantidad == 0)
                 {
-                    return true;
-                    //throw new Exception($"El voucher con Código '{voucher.CodigoVoucher}', ya fue canjeado.");
+                    return true;                   
                 }
                 else
                 {
                     return false;
-                }
-                //else
-                //{
-                //    datos.setearConsulta("INSERT INTO ARTICULOS (Codigo, Nombre, Descripcion, IdMarca, IdCategoria, Precio)values(@Codigo, @Nombre, @Descripcion, @idMarca, @idCategoria, @Precio)");
-                //    datos.setearParametro("@Codigo", articulo.Codigo);
-                //    datos.setearParametro("@Nombre", articulo.Nombre);
-                //    datos.setearParametro("@Descripcion", articulo.Descripcion);
-                //    datos.setearParametro("@idMarca", articulo.TipoMarca.Id);
-                //    datos.setearParametro("@idCategoria", articulo.TipoCategoria.Id);
-                //    datos.setearParametro("@Precio", articulo.Precio);
-                //    datos.ejecutarAccion();
-                //}
+                }               
 
             }
             catch (Exception ex)
