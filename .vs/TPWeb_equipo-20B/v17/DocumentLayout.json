@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marina_Chavez\\Desktop\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\MARTIN\\tpWeb\\tp-web-equipo-20b\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|C:\\Users\\Marina_Chavez\\Desktop\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\tpweb_equipo-20b\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|c:\\users\\usuario\\desktop\\martin\\tpweb\\tp-web-equipo-20b\\tpweb_equipo-20b\\articulospromo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|solutionrelative:tpweb_equipo-20b\\articulospromo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|c:\\users\\usuario\\desktop\\martin\\tpweb\\tp-web-equipo-20b\\tpweb_equipo-20b\\articulospromo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|solutionrelative:tpweb_equipo-20b\\articulospromo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|c:\\users\\usuario\\desktop\\martin\\tpweb\\tp-web-equipo-20b\\tpweb_equipo-20b\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|solutionrelative:tpweb_equipo-20b\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|C:\\Users\\Marina_Chavez\\Desktop\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\tpweb_equipo-20b\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|solutionrelative:tpweb_equipo-20b\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E34A6EF2-7DC3-476B-A005-193C265EA321}|negocio\\negocio.csproj|c:\\users\\marina_chavez\\desktop\\tpweb_equipo-20b\\tpweb_equipo-20b\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E34A6EF2-7DC3-476B-A005-193C265EA321}|negocio\\negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E34A6EF2-7DC3-476B-A005-193C265EA321}|negocio\\negocio.csproj|c:\\users\\marina_chavez\\desktop\\tpweb_equipo-20b\\tpweb_equipo-20b\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E34A6EF2-7DC3-476B-A005-193C265EA321}|negocio\\negocio.csproj|C:\\Users\\Usuario\\Desktop\\MARTIN\\tpWeb\\tp-web-equipo-20b\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E34A6EF2-7DC3-476B-A005-193C265EA321}|negocio\\negocio.csproj|solutionrelative:negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|c:\\users\\marina_chavez\\desktop\\tpweb_equipo-20b\\tpweb_equipo-20b\\tpweb_equipo-20b\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|solutionrelative:tpweb_equipo-20b\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{E34A6EF2-7DC3-476B-A005-193C265EA321}|negocio\\negocio.csproj|C:\\Users\\Usuario\\Desktop\\MARTIN\\tpWeb\\tp-web-equipo-20b\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34A6EF2-7DC3-476B-A005-193C265EA321}|negocio\\negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,43 +30,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\Marina_Chavez\\Desktop\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\Default.aspx",
-              "RelativeDocumentMoniker": "TPWeb_equipo-20B\\Default.aspx",
-              "ToolTip": "C:\\Users\\Marina_Chavez\\Desktop\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\Default.aspx",
-              "RelativeToolTip": "TPWeb_equipo-20B\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-01T11:17:21.244Z",
-              "IsPinned": true,
+              "DocumentIndex": 1,
+              "Title": "ArticulosPromo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\MARTIN\\tpWeb\\tp-web-equipo-20b\\TPWeb_equipo-20B\\ArticulosPromo.aspx.cs",
+              "RelativeDocumentMoniker": "TPWeb_equipo-20B\\ArticulosPromo.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\MARTIN\\tpWeb\\tp-web-equipo-20b\\TPWeb_equipo-20B\\ArticulosPromo.aspx.cs",
+              "RelativeToolTip": "TPWeb_equipo-20B\\ArticulosPromo.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:43:18.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Marina_Chavez\\Desktop\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "TPWeb_equipo-20B\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\Marina_Chavez\\Desktop\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\Default.aspx.cs",
-              "RelativeToolTip": "TPWeb_equipo-20B\\Default.aspx.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwCkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T11:26:21.405Z",
-              "IsPinned": true,
+              "DocumentIndex": 0,
+              "Title": "ArticulosPromo.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\MARTIN\\tpWeb\\tp-web-equipo-20b\\TPWeb_equipo-20B\\ArticulosPromo.aspx",
+              "RelativeDocumentMoniker": "TPWeb_equipo-20B\\ArticulosPromo.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\MARTIN\\tpWeb\\tp-web-equipo-20b\\TPWeb_equipo-20B\\ArticulosPromo.aspx",
+              "RelativeToolTip": "TPWeb_equipo-20B\\ArticulosPromo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-02T12:53:15.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Master.Master",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\MARTIN\\tpWeb\\tp-web-equipo-20b\\TPWeb_equipo-20B\\Master.Master",
+              "RelativeDocumentMoniker": "TPWeb_equipo-20B\\Master.Master",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\MARTIN\\tpWeb\\tp-web-equipo-20b\\TPWeb_equipo-20B\\Master.Master",
+              "RelativeToolTip": "TPWeb_equipo-20B\\Master.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-02T12:47:34.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AccesoDatos.cs",
-              "DocumentMoniker": "C:\\Users\\Marina_Chavez\\Desktop\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\negocio\\AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\MARTIN\\tpWeb\\tp-web-equipo-20b\\negocio\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "negocio\\AccesoDatos.cs",
-              "ToolTip": "C:\\Users\\Marina_Chavez\\Desktop\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\MARTIN\\tpWeb\\tp-web-equipo-20b\\negocio\\AccesoDatos.cs",
               "RelativeToolTip": "negocio\\AccesoDatos.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,26 +88,13 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "VoucherNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\Marina_Chavez\\Desktop\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\negocio\\VoucherNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\MARTIN\\tpWeb\\tp-web-equipo-20b\\negocio\\VoucherNegocio.cs",
               "RelativeDocumentMoniker": "negocio\\VoucherNegocio.cs",
-              "ToolTip": "C:\\Users\\Marina_Chavez\\Desktop\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\negocio\\VoucherNegocio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\MARTIN\\tpWeb\\tp-web-equipo-20b\\negocio\\VoucherNegocio.cs",
               "RelativeToolTip": "negocio\\VoucherNegocio.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAawBYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T01:40:37.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Master.Master",
-              "DocumentMoniker": "C:\\Users\\Marina_Chavez\\Desktop\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\Master.Master",
-              "RelativeDocumentMoniker": "TPWeb_equipo-20B\\Master.Master",
-              "ToolTip": "C:\\Users\\Marina_Chavez\\Desktop\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\TPWeb_equipo-20B\\Master.Master",
-              "RelativeToolTip": "TPWeb_equipo-20B\\Master.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-01T02:35:36.331Z",
               "EditorCaption": ""
             }
           ]
