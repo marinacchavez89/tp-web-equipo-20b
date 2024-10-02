@@ -10,15 +10,21 @@
                     <div class="col-md-4 mb-4">
                         <div class="card">
                            <!-- hay que iterar la lista de imagenes-->
-                            <div class="row" >
-
+                             <div class="row">
+                                <asp:Repeater ID="repetidorImagenes" runat="server" DataSource='<%# Eval("ImagenArticulo") %>'>
+                                    <ItemTemplate>
+                                        <div class="col-6 mb-2">
+                                            <img src='<%# Eval("ImagenUrl") %>' class="img-thumbnail" alt="imagen del articulo" style="width: 100%; height: auto;" />
+                                        </div>
+                                    </ItemTemplate>
+                                </asp:Repeater>
                             </div>
                         </div>
                         <div>
                             <div class="card-body">
-                                <h5 class="card-titile"><!--variable "Nombre"--></h5>
+                                <h5 class="card-titile"></h5>
                                 <p class="card-text"><!--variable "descripcion"--></p>
-                                <asp:Button ID="btnSeleccionarPremio" runat="server" Text="QUIERO ESTE!" />
+<asp:Button ID="btnSeleccionarPremio" runat="server" Text="QUIERO ESTE!"  />
 
                             </div>
                         </div>
