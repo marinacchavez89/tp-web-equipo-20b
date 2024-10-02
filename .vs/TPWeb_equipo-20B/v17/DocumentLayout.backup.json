@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\tpweb_equipo-20b\\articulospromo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|c:\\users\\usuario\\desktop\\materias\\programacion iii\\proyecto web\\tp-web-equipo-20b\\tpweb_equipo-20b\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|solutionrelative:tpweb_equipo-20b\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|c:\\users\\usuario\\desktop\\materias\\programacion iii\\proyecto web\\tp-web-equipo-20b\\tpweb_equipo-20b\\articulospromo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|solutionrelative:tpweb_equipo-20b\\articulospromo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|c:\\users\\usuario\\desktop\\materias\\programacion iii\\proyecto web\\tp-web-equipo-20b\\tpweb_equipo-20b\\articulospromo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\tpweb_equipo-20b\\articulospromo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|solutionrelative:tpweb_equipo-20b\\articulospromo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B7050A-732D-46D3-A9F2-114E659D3B96}|dominio\\dominio.csproj|c:\\users\\usuario\\desktop\\materias\\programacion iii\\proyecto web\\tp-web-equipo-20b\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73B7050A-732D-46D3-A9F2-114E659D3B96}|dominio\\dominio.csproj|C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73B7050A-732D-46D3-A9F2-114E659D3B96}|dominio\\dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B7050A-732D-46D3-A9F2-114E659D3B96}|dominio\\dominio.csproj|c:\\users\\usuario\\desktop\\materias\\programacion iii\\proyecto web\\tp-web-equipo-20b\\dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73B7050A-732D-46D3-A9F2-114E659D3B96}|dominio\\dominio.csproj|C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73B7050A-732D-46D3-A9F2-114E659D3B96}|dominio\\dominio.csproj|solutionrelative:dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\TPWeb_equipo-20B\\Default.aspx",
+              "RelativeDocumentMoniker": "TPWeb_equipo-20B\\Default.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\TPWeb_equipo-20B\\Default.aspx",
+              "RelativeToolTip": "TPWeb_equipo-20B\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-02T22:29:42.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Imagen.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\dominio\\Imagen.cs",
               "RelativeDocumentMoniker": "dominio\\Imagen.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "dominio\\Imagen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T21:42:13.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T21:42:13.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Articulo.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\dominio\\Articulo.cs",
               "RelativeDocumentMoniker": "dominio\\Articulo.cs",
@@ -59,12 +75,11 @@
               "RelativeToolTip": "dominio\\Articulo.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAowA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T21:31:09.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T21:31:09.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ArticulosPromo.aspx",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\TPWeb_equipo-20B\\ArticulosPromo.aspx",
               "RelativeDocumentMoniker": "TPWeb_equipo-20B\\ArticulosPromo.aspx",
@@ -77,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ArticulosPromo.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\TPWeb_equipo-20B\\ArticulosPromo.aspx.cs",
               "RelativeDocumentMoniker": "TPWeb_equipo-20B\\ArticulosPromo.aspx.cs",
@@ -85,12 +100,11 @@
               "RelativeToolTip": "TPWeb_equipo-20B\\ArticulosPromo.aspx.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T13:43:18.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T13:43:18.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Master.Master",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\TPWeb_equipo-20B\\Master.Master",
               "RelativeDocumentMoniker": "TPWeb_equipo-20B\\Master.Master",
@@ -103,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AccesoDatos.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\negocio\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "negocio\\AccesoDatos.cs",
@@ -111,8 +125,7 @@
               "RelativeToolTip": "negocio\\AccesoDatos.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T01:54:51.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T01:54:51.423Z"
             }
           ]
         }

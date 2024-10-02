@@ -35,7 +35,11 @@
                             <div class="card-body">
                                 <h5 class="card-title"><%# Eval("Nombre") %></h5>
                                 <p class="card-text"><%# Eval("Descripcion") %></p>
-                                <asp:Button ID="btnSeleccionarPremio" CssClass="btn btn-primary" runat="server" Text="QUIERO ESTE!" />
+                                <asp:UpdatePanel runat="server">
+                                    <ContentTemplate>
+                                        <asp:Button ID="btnSeleccionarPremio" CssClass="btn btn-primary" runat="server" Text="QUIERO ESTE!" />
+                                    </ContentTemplate>
+                                </asp:UpdatePanel>
                             </div>
                         </div>
                     </div>
