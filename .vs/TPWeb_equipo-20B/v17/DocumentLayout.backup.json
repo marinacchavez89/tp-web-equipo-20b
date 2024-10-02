@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73B7050A-732D-46D3-A9F2-114E659D3B96}|dominio\\dominio.csproj|c:\\users\\usuario\\desktop\\materias\\programacion iii\\proyecto web\\tp-web-equipo-20b\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B7050A-732D-46D3-A9F2-114E659D3B96}|dominio\\dominio.csproj|solutionrelative:dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|c:\\users\\usuario\\desktop\\materias\\programacion iii\\proyecto web\\tp-web-equipo-20b\\tpweb_equipo-20b\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|solutionrelative:tpweb_equipo-20b\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B7050A-732D-46D3-A9F2-114E659D3B96}|dominio\\dominio.csproj|c:\\users\\usuario\\desktop\\materias\\programacion iii\\proyecto web\\tp-web-equipo-20b\\dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|c:\\users\\usuario\\desktop\\materias\\programacion iii\\proyecto web\\tp-web-equipo-20b\\tpweb_equipo-20b\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479106D5-DBB4-4A0D-8BC9-35EB99643925}|TPWeb_equipo-20B\\TPWeb_equipo-20B.csproj|solutionrelative:tpweb_equipo-20b\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34A6EF2-7DC3-476B-A005-193C265EA321}|negocio\\negocio.csproj|c:\\users\\usuario\\desktop\\materias\\programacion iii\\proyecto web\\tp-web-equipo-20b\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34A6EF2-7DC3-476B-A005-193C265EA321}|negocio\\negocio.csproj|solutionrelative:negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B7050A-732D-46D3-A9F2-114E659D3B96}|dominio\\dominio.csproj|C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73B7050A-732D-46D3-A9F2-114E659D3B96}|dominio\\dominio.csproj|solutionrelative:dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73B7050A-732D-46D3-A9F2-114E659D3B96}|dominio\\dominio.csproj|c:\\users\\usuario\\desktop\\materias\\programacion iii\\proyecto web\\tp-web-equipo-20b\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B7050A-732D-46D3-A9F2-114E659D3B96}|dominio\\dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\dominio\\Articulo.cs",
-              "RelativeDocumentMoniker": "dominio\\Articulo.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\dominio\\Articulo.cs",
-              "RelativeToolTip": "dominio\\Articulo.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\TPWeb_equipo-20B\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "TPWeb_equipo-20B\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\TPWeb_equipo-20B\\Default.aspx.cs",
+              "RelativeToolTip": "TPWeb_equipo-20B\\Default.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T23:37:51.242Z",
+              "WhenOpened": "2024-10-02T00:00:02.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\TPWeb_equipo-20B\\Default.aspx",
+              "RelativeDocumentMoniker": "TPWeb_equipo-20B\\Default.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\TPWeb_equipo-20B\\Default.aspx",
+              "RelativeToolTip": "TPWeb_equipo-20B\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-01T23:59:56.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoucherNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\negocio\\VoucherNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\VoucherNegocio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\negocio\\VoucherNegocio.cs",
+              "RelativeToolTip": "negocio\\VoucherNegocio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T23:48:03.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Voucher.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\dominio\\Voucher.cs",
               "RelativeDocumentMoniker": "dominio\\Voucher.cs",
@@ -48,19 +78,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T23:29:53.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\dominio\\Cliente.cs",
-              "RelativeDocumentMoniker": "dominio\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Materias\\Programacion III\\PROYECTO WEB\\tp-web-equipo-20b\\dominio\\Cliente.cs",
-              "RelativeToolTip": "dominio\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T23:29:41.542Z",
               "EditorCaption": ""
             }
           ]
