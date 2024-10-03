@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="ArticulosPromo.aspx" />
     <Content Include="Default.aspx" />
+    <Content Include="errorVoucher.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -86,6 +87,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="errorVoucher.aspx.cs">
+      <DependentUpon>errorVoucher.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="errorVoucher.aspx.designer.cs">
+      <DependentUpon>errorVoucher.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

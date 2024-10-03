@@ -18,7 +18,7 @@
                 </div>
             </div>    
 
-            <asp:Button ID="btnSiguiente" Text="Siguiente" CssClass="btn btn-primary" OnClick="btnSiguiente_Click" runat="server" />
+            <asp:Button ID="btnSiguiente" Text="Siguiente" CssClass="btn btn-secondary" OnClick="btnSiguiente_Click" runat="server" />
         </div>
     </div>
 </div>
