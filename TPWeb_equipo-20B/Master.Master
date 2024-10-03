@@ -16,6 +16,7 @@
     <!-- Bootstrap JS (debe ir después de jQuery) -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-KzZiW3Q0H8DqNIT5GxAdpGH9lM4E3T4VxQzOZG6lz2t8wqS2vG5K5+O9BgGKl8R7G" crossorigin="anonymous"></script>
     <link rel="icon" type="image/x-icon" href="/ico/gran-venta.png" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
     <form id="form1" runat="server">
