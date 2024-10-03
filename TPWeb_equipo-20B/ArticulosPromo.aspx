@@ -11,7 +11,7 @@
                 <ItemTemplate>
                     <div class="col-md-4 mb-4">
                         <div class="card">
-                            <div id="carousel<%# Eval("Id") %>" class="carousel slide" data-bs-ride="carousel">
+                            <div id="carousel<%# Eval("Id") %>" class="carousel carousel-dark slide" data-bs-ride="carousel">
                                 <div class="carousel-inner">
                                     <asp:Repeater ID="repetidorImagenes" runat="server" DataSource='<%# Eval("ImagenArticulo") %>'>
                                         <ItemTemplate>
@@ -37,7 +37,7 @@
                                 <p class="card-text"><%# Eval("Descripcion") %></p>
                                 <asp:UpdatePanel runat="server">
                                     <ContentTemplate>
-                                        <asp:Button ID="btnSeleccionarPremio" CssClass="btn btn-primary" runat="server" Text="QUIERO ESTE!" />
+                                        <asp:Button ID="btnSeleccionarPremio" CssClass="btn btn-secondary" runat="server" Text="Canjear" />
                                     </ContentTemplate>
                                 </asp:UpdatePanel>
                             </div>
