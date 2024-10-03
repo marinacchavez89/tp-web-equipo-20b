@@ -70,6 +70,7 @@
     <Content Include="ArticulosPromo.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="errorVoucher.aspx" />
+    <Content Include="RegistroCliente.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -94,6 +95,13 @@
     </Compile>
     <Compile Include="errorVoucher.aspx.designer.cs">
       <DependentUpon>errorVoucher.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroCliente.aspx.cs">
+      <DependentUpon>RegistroCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RegistroCliente.aspx.designer.cs">
+      <DependentUpon>RegistroCliente.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
