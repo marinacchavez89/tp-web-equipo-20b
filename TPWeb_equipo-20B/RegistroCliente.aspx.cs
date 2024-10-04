@@ -78,5 +78,32 @@ namespace TPWeb_equipo_20B
             
             btnParticipar.Enabled = false;
         }
+        protected void btnParticipar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Cliente cliente = new Cliente
+                {
+                    Dni = txtDNI.Text,
+                    Nombre = txtNombre.Text,
+                    Apellido = txtApellido.Text,
+                    Email = txtEmail.Text,
+                    Direccion = txtDireccion.Text,
+                    Ciudad = txtCiudad.Text,
+                    CodigoPostal = int.Parse(txtCodigoPostal.Text)
+                };
+            ClienteNegocio negocio = new ClienteNegocio();
+             negocio.registrarCliente(cliente);
+                lblExito.Text = "Cliente registrado exitosamente!";
+                lblExito.Visible = true;
+                LimpiarCampos();
+            }
+            catch (Exception ex)
+            {
+
+                lblError.Text = "Error al registrar al Cliente: " + ex.Message;
+                lblError.Visible = true;
+            }
+        }
     }
 }
