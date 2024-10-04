@@ -25,7 +25,11 @@ namespace TPWeb_equipo_20B
         }
         protected void btnSeleccionarPremio_Command(object sender, System.Web.UI.WebControls.CommandEventArgs e)  
         {
- 
+            int idArticulo = int.Parse((e.CommandArgument).ToString());
+            Session["IdArticulo"] = idArticulo;
+
+            Response.Redirect("RegistroCliente.aspx", false);
         }
+
     }
 }

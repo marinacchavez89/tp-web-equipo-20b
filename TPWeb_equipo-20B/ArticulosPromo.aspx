@@ -37,7 +37,7 @@
                                 <p class="card-text"><%# Eval("Descripcion") %></p>
                                 <asp:UpdatePanel runat="server">
                                     <ContentTemplate>
-                                        <asp:Button ID="btnSeleccionarPremio" CssClass="btn btn-secondary" runat="server" Text="Canjear" />
+                                        <asp:Button ID="btnSeleccionarPremio" CssClass="btn btn-secondary" runat="server" Text="Canjear" CommandArgument='<%# Eval("Id") %>'  OnCommand="btnSeleccionarPremio_Command" />
                                     </ContentTemplate>
                                 </asp:UpdatePanel>
                             </div>

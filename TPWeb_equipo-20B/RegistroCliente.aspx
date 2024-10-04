@@ -2,13 +2,13 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <h1 class="text-center my-4">Registro de Cliente</h1>
+    <h1 class="text-center my-4">Completa tu registro</h1>
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card shadow-lg">
-                    <div class="card-header bg-info text-white text-center">
-                        Ingrese sus datos para participar
+                    <div class="card-header bg-secondary text-white text-center">
+                        Introduce tus datos para participar en el sorteo
                     </div>
                     <div class="card-body">
                         <div class="mb-3">
@@ -16,8 +16,9 @@
                                <asp:TextBox ID="txtDNI" runat="server" CssClass="form-control" placeholder="Ingrese su DNI"></asp:TextBox>
                         </div>
                         <div>
-                            <asp:Button ID="btnVerificar" runat="server" CssClass="btn btn-info" Text="Verificar" OnClick="btnVerificar_Click" />
+                            <asp:Button ID="btnVerificar" runat="server" CssClass="btn btn-secondary" Text="Verificar" OnClick="btnVerificar_Click" />
                         </div>
+                        <br />
                         <div class="mb-3">
                             <label for="txtNombre" class="form-label">Nombre:</label>
                               <asp:TextBox ID="txtNombre" runat="server" CssClass="form-control" Enabled="false" placeholder="Ingrese su Nombre"></asp:TextBox>
