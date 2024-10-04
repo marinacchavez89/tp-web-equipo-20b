@@ -24,6 +24,15 @@ namespace TPWeb_equipo_20B
         protected global::System.Web.UI.WebControls.TextBox txtDNI;
 
         /// <summary>
+        /// DniValidator control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator DniValidator;
+
+        /// <summary>
         /// btnVerificar control.
         /// </summary>
         /// <remarks>
@@ -85,6 +94,15 @@ namespace TPWeb_equipo_20B
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtCodigoPostal;
+
+        /// <summary>
+        /// RegularExpressionValidator1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidator1;
 
         /// <summary>
         /// btnParticipar control.
