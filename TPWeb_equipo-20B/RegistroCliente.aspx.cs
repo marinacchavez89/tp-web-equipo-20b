@@ -31,6 +31,17 @@ namespace TPWeb_equipo_20B
         }
         protected void btnVerificar_Click (object sender, EventArgs e)
         {
+            if (string.IsNullOrEmpty(txtDNI.Text))
+            {
+                lblErrorDNI.Text = "Por favor, ingrese un número de DNI.";
+                lblErrorDNI.Visible = true;
+                return;
+            }
+            else
+            {
+                lblErrorDNI.Visible = false;
+            }
+            
             ClienteNegocio negocio = new ClienteNegocio();
             List<Cliente> clienteEncontrado = negocio.findClienteByDni(txtDNI.Text);
 

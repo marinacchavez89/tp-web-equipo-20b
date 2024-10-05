@@ -15,6 +15,7 @@
                         <div class="mb-3">
                             <label for="txtDNI" class="form-label">DNI</label>
                             <asp:TextBox ID="txtDNI" runat="server" CssClass="form-control" placeholder="Ingrese su DNI"></asp:TextBox>
+                            <asp:Label ID="lblErrorDNI" runat="server" CssClass="text-danger" ForeColor="Red" Visible="false"></asp:Label>
                             <asp:RegularExpressionValidator 
                                 ID="DniValidator" 
                                 runat="server" 
