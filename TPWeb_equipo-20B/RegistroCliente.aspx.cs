@@ -31,7 +31,9 @@ namespace TPWeb_equipo_20B
         }
         protected void btnVerificar_Click (object sender, EventArgs e)
         {
-            if (string.IsNullOrEmpty(txtDNI.Text))
+            string dniIngresado = txtDNI.Text.Trim();
+            
+            if (string.IsNullOrEmpty(dniIngresado))
             {
                 lblErrorDNI.Text = "Por favor, ingrese un número de DNI.";
                 lblErrorDNI.Visible = true;
