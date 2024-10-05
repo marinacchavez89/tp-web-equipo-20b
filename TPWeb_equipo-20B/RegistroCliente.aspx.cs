@@ -11,6 +11,8 @@ namespace TPWeb_equipo_20B
 {
     public partial class RegistroCliente : System.Web.UI.Page
     {
+        private int idArticuloSeleccionado;
+        private string codigoVoucher;
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
@@ -23,6 +25,8 @@ namespace TPWeb_equipo_20B
                 txtCodigoPostal.Enabled = false;
                 btnParticipar.Enabled = false;
 
+                idArticuloSeleccionado = (int)Session["IdArticulo"];
+                codigoVoucher = Session["Voucher"].ToString();
             }
         }
         protected void btnVerificar_Click (object sender, EventArgs e)
@@ -93,9 +97,15 @@ namespace TPWeb_equipo_20B
                     CodigoPostal = int.Parse(txtCodigoPostal.Text)
                 };
             ClienteNegocio negocio = new ClienteNegocio();
-             negocio.registrarCliente(cliente);
+
+                int idClienteRegistrado = negocio.registrarCliente(cliente);
+                string codigoVoucher = Session["Voucher"].ToString();
+                int idArticulo = (int)Session["IdArticulo"];
+
+                negocio.RegistrarCanjeVoucher(codigoVoucher, idClienteRegistrado, DateTime.Now, idArticulo);
                 lblExito.Text = "Cliente registrado exitosamente!";
                 lblExito.Visible = true;
+
                 LimpiarCampos();
             }
             catch (Exception ex)

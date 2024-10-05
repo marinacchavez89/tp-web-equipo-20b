@@ -37,13 +37,15 @@ namespace TPWeb_equipo_20B
 
             if (resultado)
             {
-                /*lblErrorVoucher.Text = "El código del voucher ya ha sido canjeado o no existe.";
-                lblErrorVoucher.Visible = true;*/
                 Response.Redirect("errorVoucher.aspx", false);
+                lblErrorVoucher.Visible = false;
             }
             else
             {
-                lblErrorVoucher.Visible = false;
+                /*lblErrorVoucher.Text = "El código del voucher ya ha sido canjeado o no existe.";
+                lblErrorVoucher.Visible = true;*/
+                Session["Voucher"] = voucher.CodigoVoucher;
+            
                 Response.Redirect("ArticulosPromo.aspx", false);
             }
 

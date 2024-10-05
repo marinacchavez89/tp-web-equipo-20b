@@ -14,21 +14,22 @@ namespace TPWeb_equipo_20B
         public List<Articulo> ListaArticulo {  get; set; }
         protected void Page_Load(object sender, EventArgs e)
         {
-            ArticuloNegocio negocio = new ArticuloNegocio();
 
-            ListaArticulo = negocio.listar();
             if(!IsPostBack)
             {
+            ArticuloNegocio negocio = new ArticuloNegocio();
+                ListaArticulo = negocio.listar();
                 repetidorPremios.DataSource = ListaArticulo;
                 repetidorPremios.DataBind();
             }
         }
-        protected void btnSeleccionarPremio_Command(object sender, System.Web.UI.WebControls.CommandEventArgs e)  
+        protected void btnSeleccionarPremio_Command(object sender, CommandEventArgs e)  
         {
             int idArticulo = int.Parse((e.CommandArgument).ToString());
             Session["IdArticulo"] = idArticulo;
-
-            Response.Redirect("RegistroCliente.aspx", false);
+            string codigoVoucher = Session["Voucher"].ToString();
+            Session["Voucher"] = codigoVoucher;
+            Response.Redirect($"RegistroCliente.aspx?articuloId={idArticulo}&voucher={codigoVoucher}", false);
         }
 
     }

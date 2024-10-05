@@ -87,13 +87,14 @@ namespace negocio
                 datos.cerrarConexion();
             }
         }
-        public void registrarCliente(Cliente cliente)
+        public int registrarCliente(Cliente cliente)
         {
             AccesoDatos datos = new AccesoDatos();
 
             try
             {
-                datos.setearConsulta("INSERT INTO Clientes (Documento, Nombre, Apellido, Email, Direccion, Ciudad, CP) VALUES (@Documento, @Nombre, @Apellido, @Email, @Direccion, @Ciudad, @CP)");
+                datos.setearConsulta("INSERT INTO Clientes (Documento, Nombre, Apellido, Email, Direccion, Ciudad, CP) " +
+                                     "OUTPUT INSERTED.Id VALUES (@Documento, @Nombre, @Apellido, @Email, @Direccion, @Ciudad, @CP)");
                 datos.setearParametro("@Documento", cliente.Dni);
                 datos.setearParametro("@Nombre", cliente.Nombre);
                 datos.setearParametro("@Apellido", cliente.Apellido);
@@ -101,6 +102,29 @@ namespace negocio
                 datos.setearParametro("@Direccion", cliente.Direccion);
                 datos.setearParametro("@Ciudad", cliente.Ciudad);
                 datos.setearParametro("@CP", cliente.CodigoPostal);
+                return (int)datos.ejecutarScalar();
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
+        }
+        public void RegistrarCanjeVoucher(string codigoVoucher, int idCliente, DateTime fechaCanje, int idArticulo)
+        {
+            AccesoDatos datos = new AccesoDatos();
+
+            try
+            {
+                datos.setearConsulta("UPDATE Vouchers SET IdCliente = @idCliente, FechaCanje = @fechaCanje, IdArticulo = @idArticulo WHERE CodigoVoucher = @codigoVoucher");
+                datos.setearParametro("@idCliente", idCliente);
+                datos.setearParametro("@fechaCanje", fechaCanje);
+                datos.setearParametro("@idArticulo", idArticulo);
+                datos.setearParametro("@codigoVoucher", codigoVoucher);
                 datos.ejecutarAccion();
             }
             catch (Exception ex)
