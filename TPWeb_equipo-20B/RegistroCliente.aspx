@@ -77,9 +77,7 @@
                         </div>
                         <div class="text-center">
                             <asp:Button ID="btnParticipar" runat="server" Text="¡PARTICIPAR!" CssClass="btn btn-outline-secondary" Enabled="false" OnClick="btnParticipar_Click" />
-                            <asp:Label ID="lblExito" runat="server" CssClass="alert-alert-succes" Visible="false"></asp:Label>
                             <asp:Label ID="lblError" runat="server" CssClass="alert-alert-danger" Visible="false"></asp:Label>
-
                         </div>
                     </div>
                 </div>

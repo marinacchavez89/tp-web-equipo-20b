@@ -103,14 +103,13 @@ namespace TPWeb_equipo_20B
                 int idArticulo = (int)Session["IdArticulo"];
 
                 negocio.RegistrarCanjeVoucher(codigoVoucher, idClienteRegistrado, DateTime.Now, idArticulo);
-                lblExito.Text = "Cliente registrado exitosamente!";
-                lblExito.Visible = true;
 
                 LimpiarCampos();
+
+                Response.Redirect("RegistroExitoso.aspx", false);
             }
             catch (Exception ex)
             {
-
                 lblError.Text = "Error al registrar al Cliente: " + ex.Message;
                 lblError.Visible = true;
             }
