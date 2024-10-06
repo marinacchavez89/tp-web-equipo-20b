@@ -110,7 +110,15 @@ namespace TPWeb_equipo_20B
                     CodigoPostal = int.Parse(txtCodigoPostal.Text)
                 };
 
-            ClienteNegocio negocio = new ClienteNegocio();
+                
+                if (string.IsNullOrEmpty(cliente.Email))
+                {
+                    lblError.Text = "El correo electrónico es obligatorio.";
+                    lblError.Visible = true;
+                    return;
+                }
+
+                ClienteNegocio negocio = new ClienteNegocio();
 
                 int idClienteRegistrado;
 
@@ -129,6 +137,15 @@ namespace TPWeb_equipo_20B
                 int idArticulo = (int)Session["IdArticulo"];
 
                 negocio.RegistrarCanjeVoucher(codigoVoucher, idClienteRegistrado, DateTime.Now, idArticulo);
+
+                // Enviar correo con Mailtrap
+                if (!string.IsNullOrEmpty(cliente.Email))
+                {
+                    EmailService emailService = new EmailService();
+                    emailService.armarCorreo(cliente.Email, "Participación en el sorteo",
+                        "<h1>¡Gracias por haber participado en el sorteo!</h1> <br> La inscripción al sorteo fue exitosa.");
+                    emailService.enviarEmail();
+                }
 
                 LimpiarCampos();
 
