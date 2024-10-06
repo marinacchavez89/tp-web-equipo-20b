@@ -6,6 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using negocio;
 using dominio;
+using TPWeb_equipo_20B.Helpers;
 
 namespace TPWeb_equipo_20B
 {
@@ -138,15 +139,17 @@ namespace TPWeb_equipo_20B
 
                 negocio.RegistrarCanjeVoucher(codigoVoucher, idClienteRegistrado, DateTime.Now, idArticulo);
 
+                CorreoHelper.EnviarCorreoConfirmacion(cliente.Email, cliente.Nombre, codigoVoucher);
+
                 // Enviar correo con Mailtrap
-                if (!string.IsNullOrEmpty(cliente.Email))
+            /*    if (!string.IsNullOrEmpty(cliente.Email))
                 {
                     EmailService emailService = new EmailService();
                     emailService.armarCorreo(cliente.Email, "Participación en el sorteo",
                         "<h1>¡Gracias por haber participado en el sorteo!</h1> <br> La inscripción al sorteo fue exitosa.");
                     emailService.enviarEmail();
                 }
-
+            */
                 LimpiarCampos();
 
                 Response.Redirect("RegistroExitoso.aspx", false);

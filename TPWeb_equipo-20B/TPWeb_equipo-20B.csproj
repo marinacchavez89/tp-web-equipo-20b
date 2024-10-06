@@ -97,6 +97,7 @@
     <Compile Include="errorVoucher.aspx.designer.cs">
       <DependentUpon>errorVoucher.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Helpers\CorreoHelper.cs" />
     <Compile Include="RegistroCliente.aspx.cs">
       <DependentUpon>RegistroCliente.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
