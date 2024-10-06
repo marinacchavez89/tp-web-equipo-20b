@@ -109,9 +109,22 @@ namespace TPWeb_equipo_20B
                     Ciudad = txtCiudad.Text,
                     CodigoPostal = int.Parse(txtCodigoPostal.Text)
                 };
+
             ClienteNegocio negocio = new ClienteNegocio();
 
-                int idClienteRegistrado = negocio.registrarCliente(cliente);
+                int idClienteRegistrado;
+
+                List<Cliente> clienteEncontrado = negocio.findClienteByDni(cliente.Dni);
+                if(clienteEncontrado.Count == 0)
+                {
+                idClienteRegistrado = negocio.registrarCliente(cliente);
+
+                }
+                else
+                {
+                    idClienteRegistrado = clienteEncontrado[0].Id;
+                }
+
                 string codigoVoucher = Session["Voucher"].ToString();
                 int idArticulo = (int)Session["IdArticulo"];
 
