@@ -70,7 +70,7 @@ namespace TPWeb_equipo_20B
                 txtCiudad.Text = cliente.Ciudad;
                 txtCodigoPostal.Text = cliente.CodigoPostal.ToString();
 
-                btnParticipar.Enabled = false;
+                btnParticipar.Enabled = true;
             }
         }
 
